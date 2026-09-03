@@ -1,4 +1,4 @@
-#DuckDNSUpdater.py
+# DuckDNSUpdater.py
 
 There are certainly more elegant ways to do this but this script will check your public IP every 5 minutes (default) and update DuckDNS through their HTTP/HTTPS API if a change is detected.
 

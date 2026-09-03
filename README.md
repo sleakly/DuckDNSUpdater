@@ -15,6 +15,7 @@ There are certainly more elegant ways to do this but this script will check your
 Replace these values in the script with your DuckDNS information:
 
 DUCKDNS_DOMAIN = "your-subdomain"
+
 DUCKDNS_TOKEN = "your-duckdns-token"
 
 After that just run the script.
